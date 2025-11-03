@@ -1,0 +1,68 @@
+body {
+    background-color: rgba(83, 7, 83, 0.986);
+    font-family: "Michroma", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
+
+
+
+form {
+    padding: 100px;
+    margin: 200px;
+    width: 50%;
+    border: 3px solid rgb(198, 181, 188);
+    background-color: rgb(33, 20, 47);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#meters {
+    padding: 20px;
+    margin: 20px;
+    width: 20%;
+    border: 1px solid rgb(198, 181, 188);
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    height: 40px;
+    border: 1px solid rgb(198, 181, 188);
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-family: "Michroma", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.container {
+    background-color: rgba(240, 112, 196, 0.952);
+    width: 440px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px palevioletred;
+}
+h2{
+    text-align: center;
+    color: black;
+}
